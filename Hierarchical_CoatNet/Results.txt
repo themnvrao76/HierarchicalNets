@@ -1,0 +1,4 @@
+Accuracy CoatNet Varient 1
+Accuracy 1 96.45922746781116
+Accuracy 2 95.64109442060087
+Accuracy 3 93.0793991416309
