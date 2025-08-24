@@ -1,0 +1,4 @@
+Accuracy MaxVIT Varient 1
+Accuracy 1 87.88894849785407
+Accuracy 2 94.55472103004293
+Accuracy 3 92.2612660944206
